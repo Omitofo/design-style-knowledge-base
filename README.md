@@ -55,6 +55,3 @@ Every style entry aims to answer:
 - How to achieve it (practical levers)
 - Connections to other styles and principles
 
-## License
-
-MIT — free to use, adapt, and extend for your own projects.
