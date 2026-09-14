@@ -11,13 +11,14 @@ This folder contains dense breakdowns of major graphic, product, and digital des
 7. Connections to principles and other styles
 8. Representative practitioners or brands
 
-## Current Style Index (expandable)
+## Current Style Index
 
 ### Classic / Foundational
 - `minimalism/` — Less is more; white space as structural element
 - `swiss-international/` — Grid, Helvetica/Univers, objectivity, clarity
 - `bauhaus/` — Form follows function, geometry, primary colors, industrial materials
 - `art-deco/` — Geometric luxury, symmetry, rich materials, 1920s–30s glamour
+- `art-nouveau/` — Organic flowing lines, nature motifs, total decorative unity
 - `constructivism/` — Dynamic diagonals, photomontage, political/agitprop energy
 - `mid-century-modern/` — Organic + geometric, warm modernism, 1945–1969
 
@@ -26,6 +27,7 @@ This folder contains dense breakdowns of major graphic, product, and digital des
 - `maximalism/` — More is more; dense, layered, high visual energy
 - `postmodern/` — Play, irony, historical reference, rejection of pure modernism
 - `punk-grunge/` — DIY, raw, anti-establishment typography and texture
+- `memphis-group/` — 1980s playful postmodern furniture & pattern exuberance
 
 ### Digital / Interface Evolutions
 - `skeuomorphism/` — Digital objects that mimic physical counterparts
@@ -42,11 +44,13 @@ This folder contains dense breakdowns of major graphic, product, and digital des
 
 | Goal | Primary styles to consider |
 |------|---------------------------|
-| Trust, clarity, professionalism | Swiss, Minimalism, Mid-Century |
-| Energy, youth, disruption | Maximalism, Brutalism/Neubrutalism, Punk |
-| Premium / luxury | Luxury Minimal, Art Deco, high-end Swiss |
-| Playful / expressive | Maximalism, Postmodern, selected digital styles |
+| Trust, clarity, professionalism | Swiss, Minimalism, Mid-Century, Material Design |
+| Energy, youth, disruption | Maximalism, Brutalism/Neubrutalism, Punk, Constructivism |
+| Premium / luxury | Luxury Minimal, Art Deco, high-end Swiss, selective Art Nouveau |
+| Playful / expressive | Maximalism, Postmodern, Memphis, selected digital styles |
 | Data / information density | Swiss + Tufte principles |
 | Product / hardware | Rams + Minimalism + Mid-Century |
+| Nostalgia / subculture | Vaporwave, Cyberpunk, Punk, Art Nouveau, Art Deco |
+| Modern digital systems | Material Design, Flat Design, refined Minimalism |
 
 Always cross-check against `00_principles/` before locking a direction.
